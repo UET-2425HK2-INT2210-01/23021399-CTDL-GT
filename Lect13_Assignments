@@ -1,0 +1,22 @@
+1. 
+<an xml tag> 
+<opentag> <closetag> 
+</closetag> 
+<with attribute=”77”> 
+
+2.
+abc 
+abbbbbbbb 
+azc 
+abcbcbcbc 
+azccbbbbcbccc 
+
+3.
+very very fat ugly man 
+very very very tall man 
+
+4.
+^.{3}\..{3}\..{3}\..{3}$
+
+5.
+^(\(\d{3}\)|\d{3})([ .-]?)\d{3}\2\d{4}$
